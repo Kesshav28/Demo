@@ -6,4 +6,4 @@ This is the second line of the description
 Author - Keshav Verma   
 
 
-This is a new feature
+<p>This is a new feature</p>
